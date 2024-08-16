@@ -2,22 +2,24 @@ Here's an engaging and interactive version of the README file for your DSA proje
 
 ---
 
-# 📚 Data Structures and Algorithms (DSA) Labs
+# 📚 Data Structures and Algorithms (DSA)
 
-Welcome to the **Data Structures and Algorithms (DSA)** lab repository! This collection of code implementations covers fundamental DSA concepts and problems, providing a hands-on approach to understanding how these structures and algorithms work.
+Welcome to the **Data Structures and Algorithms (DSA)** repository! This collection of code implementations covers fundamental DSA concepts and problems, providing a hands-on approach to understanding how these structures and algorithms work.
 
 ## 🗂️ Directory Structure
 
 This repository is organized into the following directories:
 
-- **AVL_Tree**: 🌳 Self-balancing binary search tree (BST) with AVL tree operations like insertion.
-- **Double_linked**: 🔄 Implementation of a doubly linked list with node and list management functionalities.
-- **Graphs**: 📊 Graph representations and algorithms, including BFS, DFS, adjacency matrices, and more.
-- **Heap**: 🔢 Min and max heap implementations, including insertion and binary sorting.
-- **Josephus_Problem**: 🎯 Classic Josephus problem solved using circular linked lists.
-- **Queue**: 🚶‍♂️ Queue implementations using arrays, linked lists, and templates.
 - **Single_linked**: ➖ Implementation of singly linked lists with basic operations.
+- **Double_linked**: 🔄 Implementation of a doubly linked list with node and list management functionalities.
+- **Josephus_Problem**: 🎯 Classic Josephus problem solved using circular linked lists.
 - **Stack**: 🥞 Stack operations, including infix to postfix conversion.
+- **Queue**: 🚶‍♂️ Queue implementations using arrays, linked lists, and templates.
+- **Heap**: 🔢 Min and max heap implementations, including insertion and binary sorting.
+Tree: 🌲 Basic tree structures and traversal algorithms.
+- **Graphs**: 📊 Graph representations and algorithms, including BFS, DFS, adjacency matrices, and more.
+- **AVL_Tree**: 🌳 Self-balancing binary search tree (BST) with AVL tree operations like insertion.
+
 
 ## 🚀 Getting Started
 
@@ -42,14 +44,44 @@ This repository is organized into the following directories:
    ./insertion
    ```
 
-## 📁 Lab Details
+## 📁 Directory Details
+Here's the arranged structure according to the ranking you provided:
 
-### AVL Tree 🌳
-- **insertion.cpp**: Code to perform insertion operations in an AVL tree, ensuring the tree remains balanced after each insertion.
+### Single Linked List ➖
+- **LinkedList.cpp**: Complete implementation of a singly linked list with basic operations like insertion, deletion, and traversal.
+- **Node.cpp**: Defines the structure of nodes in a singly linked list.
 
 ### Double Linked List 🔄
 - **DoubleLinked.cpp**: Implementation of a doubly linked list with functions for inserting, deleting, and traversing nodes.
 - **Node.cpp**: Defines the structure and behavior of nodes within the linked list.
+
+### Josephus Problem 🎯
+- **Josephus.cpp**: Solves the Josephus problem using a circular linked list.
+
+### Stack 🥞
+- **infix_postfix.cpp**: Converts infix expressions to postfix using a stack.
+- **infix_postfix_2.cpp**: An enhanced version of the infix to postfix conversion.
+
+### Queue 🚶‍♂️
+- **usingArray.cpp**: Implements a queue using an array.
+- **usingLinked.cpp**: Implements a queue using a linked list.
+- **usingTempelate.cpp**: Implements a queue using templates for flexibility.
+
+### Heap 🔢
+- **BinSort.cpp**: Binary sorting using heaps.
+- **InsertionMax.cpp**: Code to insert elements into a max heap.
+- **InsertionMin.cpp**: Code to insert elements into a min heap.
+
+### Tree 🌲
+Here’s the organized structure with the `Tree` directory included:
+
+### Tree 🌲
+- **cases_del.cpp**: Handling different cases in tree node deletion.
+- **Deletion.cpp**: Implements node deletion in binary trees.
+- **Duplicates.cpp**: Manages and removes duplicates in trees.
+- **levelOrder.cpp**: Level order traversal of a binary tree.
+- **non_recursive_traversal.cpp**: Non-recursive methods for tree traversal.
+- **TreeNode.cpp**: Defines the tree node structure. 
 
 ### Graphs 📊
 - **Adj_Matrix_using_paths.cpp**: Utilizes adjacency matrices for pathfinding.
@@ -59,26 +91,8 @@ This repository is organized into the following directories:
 - **DirectedMatrix.cpp**: Represents a directed graph using an adjacency matrix.
 - **UndirectedMatrix.cpp**: Represents an undirected graph using an adjacency matrix.
 
-### Heap 🔢
-- **BinSort.cpp**: Binary sorting using heaps.
-- **InsertionMax.cpp**: Code to insert elements into a max heap.
-- **InsertionMin.cpp**: Code to insert elements into a min heap.
-
-### Josephus Problem 🎯
-- **Josephus.cpp**: Solves the Josephus problem using a circular linked list.
-
-### Queue 🚶‍♂️
-- **usingArray.cpp**: Implements a queue using an array.
-- **usingLinked.cpp**: Implements a queue using a linked list.
-- **usingTempelate.cpp**: Implements a queue using templates for flexibility.
-
-### Single Linked List ➖
-- **LinkedList.cpp**: Complete implementation of a singly linked list with basic operations like insertion, deletion, and traversal.
-- **Node.cpp**: Defines the structure of nodes in a singly linked list.
-
-### Stack 🥞
-- **infix_postfix.cpp**: Converts infix expressions to postfix using a stack.
-- **infix_postfix_2.cpp**: An enhanced version of the infix to postfix conversion.
+### AVL Tree 🌳
+- **insertion.cpp**: Code to perform insertion operations in an AVL tree, ensuring the tree remains balanced after each insertion.
 
 ## 🛠️ Tools and Technologies
 

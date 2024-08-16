@@ -1,0 +1,210 @@
+
+    Directory: D:\Projects\DSA
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           8/16/2024 11:53 PM                .vscode
+da---           8/16/2024 11:55 PM                2-Double_linked
+da---           8/16/2024 11:49 PM                3-Josephus_Problem
+da---           8/17/2024 12:05 AM                4-Stack
+da---           8/17/2024  1:39 AM                5-Queue
+d----           8/16/2024 11:49 PM                6-Heap
+da---           8/16/2024 11:57 PM                7-Tree
+da---           8/17/2024 12:18 AM                8-Graphs
+da---           8/16/2024 11:55 PM                9-AVL_Tree
+-a---           8/17/2024 12:02 AM             30 .gitignore
+-a---           8/17/2024  2:01 AM              0 directory_structure.txt
+-a---           8/17/2024  1:59 AM           4175 README.md
+
+    Directory: D:\Projects\DSA\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           8/16/2024 11:53 PM            356 c_cpp_properties.json
+-a---           8/16/2024 11:53 PM            597 launch.json
+-a---           8/16/2024 11:53 PM           1453 settings.json
+
+    Directory: D:\Projects\DSA\2-Double_linked
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---            1/2/2023  9:28 PM           2745 DoubleLinked.cpp
+-a---          12/19/2022 12:32 PM            949 Node.cpp
+-a---          12/19/2022 12:29 PM        2975115 Node.exe
+-a---          12/19/2022  7:22 PM           8690 Single_List.cpp
+-a---          12/19/2022  7:22 PM        2994448 Single_List.exe
+
+    Directory: D:\Projects\DSA\2-Double_linked\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          12/19/2022 12:14 PM            356 c_cpp_properties.json
+-a---          12/19/2022 12:14 PM            665 launch.json
+-a---          12/19/2022 12:14 PM            717 settings.json
+
+    Directory: D:\Projects\DSA\3-Josephus_Problem
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---            1/2/2023  9:41 PM           1952 CircularlyList.cpp
+-a---            1/2/2023  9:41 PM        2984374 CircularlyList.exe
+-a---            1/2/2023  9:58 PM           3114 Josephus.cpp
+-a---            1/2/2023  9:45 PM        2987246 Josephus.exe
+-a---          12/19/2022  9:09 PM            738 Node.cpp
+-a---          12/19/2022  8:12 PM             83 tempCodeRunnerFile.cpp
+
+    Directory: D:\Projects\DSA\3-Josephus_Problem\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          12/19/2022  7:35 PM            356 c_cpp_properties.json
+-a---          12/19/2022  7:35 PM            671 launch.json
+-a---          12/19/2022  7:35 PM            717 settings.json
+
+    Directory: D:\Projects\DSA\4-Stack
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---          12/26/2022  8:38 PM            326 checking.cpp
+-a---          12/26/2022  8:22 PM           2319 infix_postfix_2.cpp
+-a---           1/12/2023  9:02 AM           2522 infix_postfix.cpp
+-a---           8/17/2024 12:03 AM          82274 infix_postfix.exe
+-a---          12/26/2022  8:38 PM            523 Node.cpp
+-a---            1/2/2023 10:21 PM           1130 postfix_infix.cpp
+-a---           3/19/2023 11:46 AM           2358 stackTemplate.cpp
+-a---           8/17/2024 12:03 AM          81925 temp.exe
+-a---            1/2/2023 10:33 PM           3181 Undo_Redo.cpp
+-a---           8/17/2024 12:05 AM          52757 Undo_Redo.exe
+-a---           8/17/2024 12:00 AM          82274 Untitled1.exe
+-a---           1/12/2023  8:05 AM           2161 usingArray.cpp
+-a---            1/2/2023 10:11 PM            902 usingArray2.cpp
+-a---            1/2/2023 10:11 PM           1571 usingLinkedList.cpp
+
+    Directory: D:\Projects\DSA\4-Stack\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          12/20/2022  5:28 AM            356 c_cpp_properties.json
+-a---          12/20/2022  5:28 AM            649 launch.json
+-a---          12/26/2022 11:12 PM            788 settings.json
+
+    Directory: D:\Projects\DSA\5-Queue
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---            1/2/2023 12:23 AM           2800 bin.cpp
+-a---            1/2/2023 10:48 PM           4388 usingArray.cpp
+-a---            1/2/2023 10:48 PM        2984234 usingArray.exe
+-a---            1/2/2023 10:47 PM           3366 usingArray2.cpp
+-a---            1/2/2023 10:47 PM        2966675 usingArray2.exe
+-a---            1/2/2023 10:51 PM           2911 usingLinked.cpp
+-a---            1/2/2023 10:51 PM        2985354 usingLinked.exe
+-a---            1/2/2023 11:09 PM           3181 usingTempelate.cpp
+-a---            1/2/2023 11:05 PM        2988978 usingTempelate.exe
+
+    Directory: D:\Projects\DSA\5-Queue\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          12/27/2022  1:56 PM            356 c_cpp_properties.json
+-a---          12/27/2022  1:56 PM            649 launch.json
+-a---          12/27/2022 10:58 PM            792 settings.json
+
+    Directory: D:\Projects\DSA\6-Heap
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---           3/18/2023  9:48 PM           1174 BinSort.cpp
+-a---           3/18/2023  9:48 PM        2967630 BinSort.exe
+-a---           3/18/2023  9:51 PM           1703 InsertionMax.cpp
+-a---           3/18/2023  9:49 PM        2967670 InsertionMax.exe
+-a---           3/18/2023  9:38 PM           2020 InsertionMin.cpp
+-a---           3/18/2023  9:34 PM        2968661 InsertionMin.exe
+
+    Directory: D:\Projects\DSA\6-Heap\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           2/28/2023 12:15 AM            356 c_cpp_properties.json
+-a---           2/28/2023 12:15 AM            647 launch.json
+-a---           2/28/2023 12:15 AM            822 settings.json
+
+    Directory: D:\Projects\DSA\7-Tree
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---           1/31/2023 11:15 AM           7584 bin.cpp
+-a---            2/5/2023 11:01 PM           7659 bin2.cpp
+-a---           1/31/2023 12:46 AM           1920 bin3.cpp
+-a---            2/6/2023  9:30 PM           9891 cases_del.cpp
+-a---           1/31/2023 12:51 AM           6602 Deletion.cpp
+-a---           1/30/2023  6:47 PM           5273 Duplicates.cpp
+-a---           1/30/2023  2:25 PM           3543 levelOrder.cpp
+-a---            1/9/2023  8:10 PM           3732 non_recursive_traversal.cpp
+-a---            1/9/2023  7:20 PM           3213 Queue.cpp
+-a---            1/9/2023  8:05 PM           2403 Stack.cpp
+-a---           1/31/2023  7:20 AM            594 tempCodeRunnerFile.cpp
+-a---            1/2/2023  3:44 PM           1198 TreeNode.cpp
+
+    Directory: D:\Projects\DSA\7-Tree\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            1/2/2023  1:36 PM            356 c_cpp_properties.json
+-a---            1/2/2023  1:36 PM            647 launch.json
+-a---           1/30/2023  7:16 PM            893 settings.json
+
+    Directory: D:\Projects\DSA\8-Graphs
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---           3/19/2023 12:52 PM           1009 Adj_Matrix_using_paths.cpp
+-a---           8/17/2024 12:17 AM          46182 Adj_Matrix.exe
+-a---           3/19/2023 12:53 PM            944 Adjacency_list.cpp
+-a---           2/28/2023 12:59 AM           1030 Adjacency_Matrix.cpp
+-a---           3/19/2023  2:28 PM           1734 BFS.cpp
+-a---           8/16/2024 11:56 PM        2971180 BFS.exe
+-a---           8/17/2024 12:16 AM          47008 bin.exe
+-a---           2/28/2023  1:33 AM           1885 BSF2.cpp
+-a---           8/16/2024 11:56 PM        3024243 BSF2.exe
+-a---          11/14/2023 10:11 AM           1724 DFS_BFS.cpp
+-a---           8/16/2024 11:56 PM        3002514 DFS_BFS.exe
+-a---           2/28/2023  1:17 AM           1658 DFS.cpp
+-a---           8/16/2024 11:56 PM        2966966 DFS.exe
+-a---           3/19/2023 12:01 PM            911 DirectedMatrix.cpp
+-a---           8/16/2024 11:56 PM        2965884 DirectedMatrix.exe
+-a---            1/9/2023  7:20 PM           3213 queue.cpp
+-a---            1/9/2023  8:05 PM           2403 stack.cpp
+-a---           3/19/2023 11:56 AM            945 UndirectedMatrix.cpp
+-a---           8/16/2024 11:56 PM        2965905 UndirectedMatrix.exe
+
+    Directory: D:\Projects\DSA\8-Graphs\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          11/26/2023  2:08 PM            356 c_cpp_properties.json
+-a---          11/30/2023  8:09 PM            621 launch.json
+-a---          11/30/2023  8:09 PM           1397 settings.json
+
+    Directory: D:\Projects\DSA\9-AVL_Tree
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+da---           8/16/2024 11:49 PM                .vscode
+-a---           3/20/2023  1:56 AM           3916 insertion.cpp
+
+    Directory: D:\Projects\DSA\9-AVL_Tree\.vscode
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           3/20/2023 12:08 AM            356 c_cpp_properties.json
+-a---           3/20/2023 12:08 AM            655 launch.json
+-a---           3/20/2023 12:08 AM            867 settings.json
+
