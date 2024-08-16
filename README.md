@@ -73,9 +73,6 @@ Here's the arranged structure according to the ranking you provided:
 - **InsertionMin.cpp**: Code to insert elements into a min heap.
 
 ### Tree 🌲
-Here’s the organized structure with the `Tree` directory included:
-
-### Tree 🌲
 - **cases_del.cpp**: Handling different cases in tree node deletion.
 - **Deletion.cpp**: Implements node deletion in binary trees.
 - **Duplicates.cpp**: Manages and removes duplicates in trees.
